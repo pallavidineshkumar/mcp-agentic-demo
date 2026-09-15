@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "employee-mcp": {
+      "command": "python",
+      "args": [
+        "mcp-server/server.py"
+      ]
+    }
+  }
+}
